@@ -5817,8 +5817,8 @@ use_preset_vocabulary: false
 孻	ll;zj	329
 孻	nl;zj	329
 孼	nx;zx	330
-孽	nx;cz	863
 孽	nx;zx	863
+孽	nx;cz	863
 孾	yy;zy	250
 孿	lr;yz	591
 孿	lr;zs	591
@@ -19780,8 +19780,8 @@ use_preset_vocabulary: false
 縸	mo;sm	416
 縹	pc;sp	582
 縺	lm;sl	343
-縻	mi;ms	485
 縻	mi;sm	485
+縻	mi;ms	485
 縼	xr;sx	443
 總	zs;sc	29524
 總	zs;sx	29524
@@ -19789,7 +19789,7 @@ use_preset_vocabulary: false
 縿	cj;sc	334
 縿	uj;sc	334
 繀	sv;sc	358
-繁	bo;sm	3
+繁	pj;sm	3
 繁	fj;sm	1452
 繁	po;sm	3
 繂	lv;sl	322
@@ -29334,6 +29334,7 @@ use_preset_vocabulary: false
 雩	yu;yk	535
 雪	xt;yx	8021
 雫	na;yx	511
+雫	xw;yx	0
 雬	fb;ym	199
 雬	fu;ym	199
 雭	se;yj	301
@@ -34408,8 +34409,10 @@ use_preset_vocabulary: false
 㓵	ee;de	0	# auto
 㓶	qx;dq	0	# auto
 㓷	yi;dg	0	# auto
-㓸	db;dd	0	# auto
-㓸	vo;dd	0	# auto
+㓸	db;dd	0
+㓸	vo;dd	0
+㓸	db;da	0
+㓸	vo;da	0
 㓹	cv;di	0	# auto
 㓹	ji;di	0	# auto
 㓹	rv;di	0	# auto
@@ -43332,7 +43335,8 @@ use_preset_vocabulary: false
 𢆻	ji;yj	0	# auto
 𢆽	yk;mu	0	# auto
 𢇇	gr;yg	0	# auto
-𢇕	ii;yy	0	# auto
+𢇕	ii;yy	0
+𢇕	yb;yy	0
 𢇗	ua;gx	0	# auto
 𢇘	yj;gn	0	# auto
 𢇙	yi;gy	0	# auto

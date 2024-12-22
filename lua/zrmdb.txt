@@ -233,6 +233,7 @@
 㓶 dq
 㓷 dg
 㓸 dd
+㓸 da
 㓹 di
 㓺 dq
 㓻 dg
@@ -10970,8 +10971,8 @@
 孺 zx
 孻 zj
 孼 zx
-孽 cz
 孽 zx
+孽 cz
 孾 zy
 孿 yz
 孿 zs
@@ -22042,8 +22043,8 @@
 縸 sm
 縹 sp
 縺 sl
-縻 ms
 縻 sm
+縻 ms
 縼 sx
 總 sc
 總 sx
