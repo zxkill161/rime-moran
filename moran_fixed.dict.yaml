@@ -3364,9 +3364,10 @@ A4紙	asv
 編纂	bmzr
 編組	bmzu
 不鳴則已	bmzy
-賓	bn
+不能	bn
 不能啊	bna
 賓	bnb
+不能不	bnb
 不年不節	bnbj
 不男不女	bnbn
 彬彬	bnbn
@@ -3929,6 +3930,7 @@ A4紙	asv
 布袋	budl
 布店	budm
 不多	budo
+波士頓	budp
 不斷	budr
 不懂	buds
 不識大體	budt
@@ -5509,7 +5511,6 @@ Bilibili	bvj
 藏蹤	chzs
 催化作用	chzy
 此	ci
-次	ci
 朿	cia
 慈愛	ciai
 此岸	cian
@@ -5535,7 +5536,6 @@ Bilibili	bvj
 此次	cici
 薋	cicz
 刺	cid
-次	cid
 辭掉	cidc
 刺	cidc
 泚	cidc
@@ -8879,6 +8879,7 @@ C++	cjj
 單曲	djqu
 低級趣味	djqw
 膽怯	djqx
+蛋清	djqy
 丹青	djqy
 儋	djr
 僤	djrd
@@ -12798,6 +12799,7 @@ C++	cjj
 蜂擁	fgys
 風月	fgyt
 風雨	fgyu
+豐腴	fgyu
 豐盈	fgyy
 逢	fgz
 奉贈	fgzg
@@ -13891,11 +13893,11 @@ C++	cjj
 覆水難收	funu
 父女	funv
 婦女	funv
-服	fuo
-腹	fuof
+腹	fuo
 脯	fuof
 腑	fuof
 胕	fuof
+腹	fuof
 肤	fuof
 父	fup
 浮漂	fupc
@@ -16414,6 +16416,7 @@ C++	cjj
 國風	gofg
 國防	gofh
 果腹	gofu
+果脯	gofu
 褁	gog
 國歌	goge
 彉	gogh
@@ -16499,7 +16502,6 @@ C++	cjj
 果皮	gopi
 果盤	gopj
 果品	gopn
-果脯	gopu
 猓	goq
 過橋	goqc
 過期	goqi
@@ -16591,6 +16593,7 @@ C++	cjj
 國葬	gozh
 果子	gozi
 過早	gozk
+聒噪	gozk
 過載	gozl
 裹足	gozu
 國賊	gozz
@@ -21720,12 +21723,12 @@ C++	cjj
 花叢	hwcs
 花簇	hwcu
 蘤	hwcw
-劃	hwd
+滑	hwd
 花掉	hwdc
 花雕	hwdc
-滑	hwdg
-花燈	hwdg
 划	hwdg
+花燈	hwdg
+劃	hwdh
 澅	hwdh
 華誕	hwdj
 滑道	hwdk
@@ -25065,6 +25068,7 @@ C++	cjj
 初春	iuip
 除蟲	iuis
 處處	iuiu
+出處	iuiu
 蠩	iuiv
 蜍	iuiy
 觸	iuj
@@ -27694,6 +27698,8 @@ C++	cjj
 譾	jmyy
 建	jmz
 間雜	jmza
+間奏	jmzb
+健走	jmzb
 簡則	jmze
 尖子	jmzi
 剪子	jmzi
@@ -32674,6 +32680,7 @@ C++	cjj
 拉牀	laid
 拉扯	laie
 拉長	laih
+臘腸	laih
 拉出	laiu
 蜡	laix
 辣椒	lajc
@@ -35150,7 +35157,7 @@ C++	cjj
 劉邦	lqbh
 流弊	lqbi
 六百	lqbl
-陸佰	lqbl
+留白	lqbl
 流變	lqbm
 流播	lqbo
 六親不認	lqbr
@@ -35169,6 +35176,7 @@ C++	cjj
 流	lqd
 溜達	lqda
 溜掉	lqdc
+留檔	lqdh
 留底	lqdi
 劉	lqdj
 流到	lqdk
@@ -36430,7 +36438,6 @@ C++	cjj
 鈴	lyj
 領教	lyjc
 領獎	lyjd
-來樣加工	lyjg
 勞逸結合	lyjh
 另計	lyji
 靈機	lyji
@@ -39638,8 +39645,8 @@ C++	cjj
 每戶	mzhu
 每回	mzhv
 煤灰	mzhv
-梅花	mzhw
 美化	mzhw
+梅花	mzhw
 蝞	mzi
 美醜	mzib
 煤車	mzie
@@ -47309,6 +47316,7 @@ PC端	pcdr
 揉	rbf
 柔風	rbfg
 入不敷出	rbfi
+肉脯	rbfu
 人不犯我	rbfw
 鞣	rbg
 肉鴿	rbge
@@ -47361,7 +47369,6 @@ PC端	pcdr
 肉皮	rbpi
 肉排	rbpl
 肉片	rbpm
-肉脯	rbpu
 肉鋪	rbpu
 肉鰭	rbqi
 肉禽	rbqn
@@ -51045,6 +51052,7 @@ PC端	pcdr
 太不像話	tbxh
 偷襲	tbxi
 同病相憐	tbxl
+停不下來	tbxl
 頭銜	tbxm
 特別行政區	tbxq
 頭癬	tbxr
@@ -52180,6 +52188,7 @@ PC端	pcdr
 錭	tkj
 討教	tkjc
 套間	tkjm
+套件	tkjm
 淘金	tkjn
 陶鈞	tkjp
 討價	tkjw
@@ -56312,7 +56321,7 @@ PC端	pcdr
 失	uip
 氏	uipg
 實盤	uipj
-勢派	uipl
+實拍	uipl
 詩篇	uipm
 視頻	uipn
 食品	uipn
@@ -60352,6 +60361,7 @@ PC端	pcdr
 致用	viys
 制約	viyt
 至於	viyu
+治癒	viyu
 衹	viyu
 袟	viyu
 翐	viyu
@@ -65913,6 +65923,7 @@ WiFi	wifi
 小而言之	xeyv
 玄而又玄	xeyx
 想法	xf
+相反	xf
 媳婦熬成婆	xfap
 相逢不用忙歸去	xfbq
 興奮不已	xfby
@@ -67300,6 +67311,7 @@ WiFi	wifi
 血盆大口	xpdk
 濬	xpdm
 汛	xpdu
+訓讀	xpdu
 洵	xpdx
 潯	xpdx
 郇	xpe
@@ -68133,6 +68145,7 @@ WiFi	wifi
 需	xu
 小時	xu
 刑事案件	xuaj
+現實	xub
 心神不安	xuba
 序跋	xuba
 心神不定	xubd
@@ -69122,6 +69135,7 @@ WiFi	wifi
 行販	xyfj
 幸福	xyfu
 鹹魚翻身	xyfu
+杏脯	xyfu
 逍遙法外	xyfw
 下一個	xyg
 星光	xygd
@@ -69236,7 +69250,6 @@ WiFi	wifi
 行騙	xypm
 行聘	xypn
 洶湧澎湃	xypp
-杏脯	xypu
 稀有品種	xypv
 猩	xyq
 懸崖峭壁	xyqb

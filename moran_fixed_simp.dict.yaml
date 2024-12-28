@@ -3254,6 +3254,7 @@ A4纸	asv
 不能	bn
 不能啊	bna
 宾	bnb
+不能不	bnb
 不年不节	bnbj
 不男不女	bnbn
 彬彬	bnbn
@@ -3808,6 +3809,7 @@ B盘	bpj
 布袋	budl
 布店	budm
 不多	budo
+波士顿	budp
 不断	budr
 不懂	buds
 不识大体	budt
@@ -8531,6 +8533,7 @@ C语言	cyy
 单曲	djqu
 低级趣味	djqw
 胆怯	djqx
+蛋清	djqy
 丹青	djqy
 儋	djr
 担任	djrf
@@ -12251,6 +12254,7 @@ E盘	epj
 蜂拥	fgys
 风月	fgyt
 风雨	fgyu
+丰腴	fgyu
 丰盈	fgyy
 逢	fgz
 奉赠	fgzg
@@ -15750,6 +15754,7 @@ F盘	fpj
 国风	gofg
 国防	gofh
 果腹	gofu
+果脯	gofu
 国歌	goge
 果敢	gogj
 过高	gogk
@@ -15830,7 +15835,6 @@ F盘	fpj
 果皮	gopi
 果盘	gopj
 果品	gopn
-果脯	gopu
 过桥	goqc
 猓	goqg
 过期	goqi
@@ -15925,6 +15929,7 @@ F盘	fpj
 国葬	gozh
 果子	gozi
 过早	gozk
+聒噪	gozk
 过载	gozl
 裹足	gozu
 国贼	gozz
@@ -24105,6 +24110,7 @@ I盘	ipj
 初春	iuip
 除虫	iuis
 处处	iuiu
+出处	iuiu
 雏	iuiv
 蜍	iuiy
 触	iuj
@@ -26631,6 +26637,8 @@ I盘	ipj
 建	jmz
 间杂	jmza
 蹇	jmzb
+间奏	jmzb
+健走	jmzb
 简则	jmze
 尖子	jmzi
 剪子	jmzi
@@ -31432,6 +31440,7 @@ I盘	ipj
 蝲	laid
 拉扯	laie
 拉长	laih
+腊肠	laih
 蝲	lail
 拉出	laiu
 镴	laj
@@ -33824,7 +33833,7 @@ I盘	ipj
 刘邦	lqbh
 流弊	lqbi
 六百	lqbl
-陆佰	lqbl
+留白	lqbl
 流变	lqbm
 流播	lqbo
 六亲不认	lqbr
@@ -33842,6 +33851,7 @@ I盘	ipj
 刘	lqd
 溜达	lqda
 溜掉	lqdc
+留档	lqdh
 留底	lqdi
 流到	lqdk
 溜	lqdl
@@ -35060,7 +35070,6 @@ I盘	ipj
 铃	lyj
 领教	lyjc
 领奖	lyjd
-来样加工	lyjg
 劳逸结合	lyjh
 另计	lyji
 灵机	lyji
@@ -45501,6 +45510,7 @@ I盘	ipj
 揉	rbf
 柔风	rbfg
 入不敷出	rbfi
+肉脯	rbfu
 人不犯我	rbfw
 鞣	rbg
 肉鸽	rbge
@@ -45545,7 +45555,6 @@ I盘	ipj
 肉皮	rbpi
 肉排	rbpl
 肉片	rbpm
-肉脯	rbpu
 肉铺	rbpu
 肉鳍	rbqi
 肉禽	rbqn
@@ -49116,6 +49125,7 @@ I盘	ipj
 太不像话	tbxh
 偷袭	tbxi
 同病相怜	tbxl
+停不下来	tbxl
 头衔	tbxm
 特别行政区	tbxq
 头癣	tbxr
@@ -50193,6 +50203,7 @@ I盘	ipj
 掏出	tkiu
 讨教	tkjc
 套间	tkjm
+套件	tkjm
 淘金	tkjn
 陶钧	tkjp
 讨价	tkjw
@@ -54234,7 +54245,7 @@ T恤衫	txuj
 释	uipf
 氏	uipg
 实盘	uipj
-势派	uipl
+实拍	uipl
 诗篇	uipm
 视频	uipn
 食品	uipn
@@ -58163,6 +58174,7 @@ U盘	upj
 致用	viys
 制约	viyt
 至于	viyu
+治愈	viyu
 酯	viyv
 直营	viyy
 支应	viyy
@@ -63487,6 +63499,7 @@ U盘	upj
 小而言之	xeyv
 玄而又玄	xeyx
 想法	xf
+相反	xf
 媳妇熬成婆	xfap
 相逢不用忙归去	xfbq
 兴奋不已	xfby
@@ -64795,6 +64808,7 @@ U盘	upj
 训导	xpdk
 血盆大口	xpdk
 汛	xpdu
+训读	xpdu
 浚	xpdw
 汛	xpdx
 洵	xpdx
@@ -65605,6 +65619,7 @@ U盘	upj
 需	xu
 小时	xu
 刑事案件	xuaj
+现实	xub
 心神不安	xuba
 序跋	xuba
 心神不定	xubd
@@ -66531,6 +66546,7 @@ U盘	upj
 行贩	xyfj
 幸福	xyfu
 咸鱼翻身	xyfu
+杏脯	xyfu
 逍遥法外	xyfw
 下一个	xyg
 星光	xygd
@@ -66647,7 +66663,6 @@ U盘	upj
 行骗	xypm
 行聘	xypn
 汹涌澎湃	xypp
-杏脯	xypu
 稀有品种	xypv
 猩	xyq
 悬崖峭壁	xyqb
@@ -73549,10 +73564,10 @@ U盘	upj
 怎么可能	zmkn
 怎么可以	zmky
 怎么了	zml
-怎么你了	zmnl
 怎么啦	zmlak
 做买卖	zmm
 怎么能	zmn
+怎么你了	zmnl
 自贸区	zmq
 自命清高	zmqg
 钻木取火	zmqh
