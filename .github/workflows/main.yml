@@ -82,12 +82,27 @@ jobs:
       - name: Build
         run: |
           sudo apt install -y librime-data librime-bin
+
+          rm -f *.gram
+          cat >moran.extended.dict.yaml <<EOF
+          ---
+          name: moran.extended
+          version: "mini"
+          sort: by_weight
+          use_preset_vocabulary: false
+          import_tables: [moran.chars, moran.base, moran.words]
+          ...
+          EOF
+
           rime_deployer --build . /usr/share/rime-data ./build
           rm -rf ./*.yaml
       - uses: actions/upload-artifact@v4
         with:
           name: Simp-Demo
-          path: ./**
+          path: |
+            build/
+            lua/
+            opencc/
 
   demo-trad:
     runs-on: ubuntu-24.04
@@ -99,12 +114,27 @@ jobs:
       - name: Build
         run: |
           sudo apt install -y librime-data librime-bin
+
+          rm -f *.gram
+          cat >moran.extended.dict.yaml <<EOF
+          ---
+          name: moran.extended
+          version: "mini"
+          sort: by_weight
+          use_preset_vocabulary: false
+          import_tables: [moran.chars, moran.base, moran.words]
+          ...
+          EOF
+
           rime_deployer --build . /usr/share/rime-data ./build
           rm -rf ./*.yaml
       - uses: actions/upload-artifact@v4
         with:
           name: Trad-Demo
-          path: ./**
+          path: |
+            build/
+            lua/
+            opencc/
 
   # upload-to-hamster:
   #   needs: [simplified-moran, traditional-moran]
