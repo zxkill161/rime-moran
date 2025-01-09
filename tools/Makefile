@@ -14,6 +14,7 @@ update-compact-dicts:
 	./update_compact_dicts.sh
 
 dazhu:
-	python3 dazhu.py ${DAZHU_DICT} > dazhu.txt
+	python3 dazhu.py > dazhu-hant.txt
+	python3 dazhu.py --dict ../moran_fixed_simp.dict.yaml > dazhu-hans.txt
 
 .PHONY: quick all dict gen-zrmdb gen-chai-filter update-compact-dicts dazhu

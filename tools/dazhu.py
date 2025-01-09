@@ -4,6 +4,7 @@ import opencc
 import os
 from collections import defaultdict
 import re
+import sys
 
 
 class FakeOpenCC:
@@ -144,10 +145,7 @@ def main(args):
             [zi, chai] = l.strip().split('\t')
             table.add(zi, '拆分：' + chai)
 
-    with open('dazhu.txt', 'w') as f:
-        table.print_c2w(f)
-        # table.print_w2c(f)
-
+    table.print_c2w(sys.stdout)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
