@@ -2241,6 +2241,7 @@ A4紙	asv
 半拉	bjla
 伴郎	bjlh
 辦理	bjli
+板栗	bjli
 斑斕	bjlj
 板臉	bjlm
 半裸	bjlo
@@ -4499,7 +4500,7 @@ Bilibili	bvj
 別管	bxgr
 保險公司	bxgs
 白雪公主	bxgv
-不喜欢	bxh
+不喜歡	bxh
 別後	bxhb
 別慌	bxhd
 別號	bxhk
@@ -5849,6 +5850,7 @@ C++	cjj
 慘狀	cjvd
 參政	cjvg
 殘值	cjvi
+參戰	cjvj
 參展	cjvj
 參照	cjvk
 餐桌	cjvo
@@ -7334,6 +7336,7 @@ C++	cjj
 打住	davu
 大抓	davw
 答問	dawf
+大王	dawh
 打完	dawj
 大腕	dawj
 敵暗我明	dawm
@@ -9451,7 +9454,6 @@ C++	cjj
 動力裝置	dlvv
 玳	dlw
 獨立王國	dlwg
-大王	dlwh
 帶往	dlwh
 帶我	dlwo
 得隴望蜀	dlwu
@@ -10534,7 +10536,7 @@ C++	cjj
 毒打	duda
 肚兜	dudb
 大是大非	dudf
-電視電話	dudh
+讀檔	dudh
 大手大腳	dudj
 動手動腳	dudj
 獨到	dudk
@@ -16484,6 +16486,7 @@ C++	cjj
 過獎	gojd
 幗	gojg
 國際	goji
+国籍	goji
 裹緊	gojn
 過勁	gojn
 國君	gojp
@@ -23038,6 +23041,7 @@ C++	cjj
 春風滿面	ifmm
 臣民	ifmn
 沉默	ifmo
+沉沒	ifmo
 櫬	ifmq
 鷐	ifn
 陳釀	ifnd
@@ -24367,11 +24371,14 @@ C++	cjj
 長命百歲	imbs
 愁眉不展	imbv
 沉默不語	imby
+沉沒	imd
 纏綿悱惻	imfc
 長命富貴	imfg
 承蒙關照	imgv
 沉默寡言	imgy
+沉默	imh
 出謀劃策	imhc
+沉没成本	imib
 成名成家	imij
 炒買炒賣	imim
 窗明几淨	imjj
@@ -27462,6 +27469,7 @@ C++	cjj
 鞬	jmgj
 箭桿	jmgj
 見過	jmgo
+堅果	jmgo
 監管	jmgr
 監工	jmgs
 兼顧	jmgu
@@ -30513,8 +30521,9 @@ C++	cjj
 警員	jyyr
 雞鴨魚肉	jyyr
 經用	jyys
-鯨魚	jyyu
 境遇	jyyu
+鯨魚	jyyu
+敬語	jyyu
 錦衣玉食	jyyu
 見義勇爲	jyyw
 記憶猶新	jyyx
@@ -32052,7 +32061,7 @@ C++	cjj
 空洞	ksds
 崆峒	ksds
 空額	ksee
-空兒	kser
+空耳	kser
 控	ksf
 空乏	ksfa
 空房	ksfh
@@ -33867,8 +33876,8 @@ C++	cjj
 禮貌	limk
 粒	liml
 梨	liml
-櫟	liml
 驪	liml
+櫟	liml
 櫪	liml
 糲	liml
 欐	liml
@@ -35561,6 +35570,7 @@ C++	cjj
 令人討厭	lrty
 巒	lru
 孿生	lrug
+卵生	lrug
 亂世	lrui
 亂說	lruo
 攣	lrus
@@ -38891,6 +38901,8 @@ C++	cjj
 馬前卒	mqz
 謬讚	mqzj
 默認	mr
+沒人	mr
+每人	mr
 明人不說暗話	mrbh
 茫然不解	mrbj
 明人不做暗事	mrbu
@@ -38936,6 +38948,7 @@ C++	cjj
 慢熱型	mrx
 盲人瞎馬	mrxm
 名人效應	mrxy
+默認	mry
 魔然音形	mryx
 美容養顏	mryy
 魔然字词	mrzc
@@ -39805,8 +39818,7 @@ C++	cjj
 沒趣	mzqu
 民族區域自治	mzqv
 每	mzr
-沒人	mzrf
-每人	mzrf
+美人	mzrf
 媒人	mzrf
 民族融合	mzrh
 每日	mzri
@@ -50817,7 +50829,9 @@ PC端	pcdr
 死要面子	symz
 死要面子活受罪	symz
 所以能	syn
+三丫坡	syp
 隨遇平衡	syph
+三丫坡	sypo
 私營企業	syqy
 所有人	syr
 歲月如流	syrl
@@ -56386,6 +56400,7 @@ PC端	pcdr
 榯	uimu
 檡	uimx
 使命	uimy
+實名	uimy
 師妹	uimz
 始	uin
 屎尿	uinc
@@ -57753,6 +57768,7 @@ PC端	pcdr
 數據	uuju
 鉥	uuju
 暑假	uujw
+書架	uujw
 疏解	uujx
 殳	uujy
 試試看	uuk
@@ -57826,6 +57842,7 @@ PC端	pcdr
 薯片	uupm
 叔婆	uupo
 書鋪	uupu
+豎屏	uupy
 書評	uupy
 上上籤	uuq
 閃爍其詞	uuqc
@@ -61348,6 +61365,7 @@ PC端	pcdr
 轉交	vrjc
 轉角	vrjc
 專輯	vrji
+傳記	vrji
 專揀	vrjm
 轉筋	vrjn
 專家	vrjw
@@ -61997,9 +62015,9 @@ PC端	pcdr
 誅滅	vumx
 柷	vumx
 竹篾	vumx
+著名	vumy
 註明	vumy
 杼	vumy
-著名	vumy
 鴸	vun
 裝神弄鬼	vung
 鸀	vuni
@@ -62145,6 +62163,7 @@ PC端	pcdr
 招商銀行	vuyh
 注意	vuyi
 主意	vuyi
+主義	vuyi
 主演	vuyj
 主要	vuyk
 注音	vuyn
@@ -64162,6 +64181,7 @@ WiFi	wifi
 無私奉獻	wsfx
 丸散膏丹	wsgd
 無所顧忌	wsgj
+無損格式	wsgu
 王孫公子	wsgz
 無所忌憚	wsjd
 威斯康辛	wskx
@@ -64173,6 +64193,7 @@ WiFi	wifi
 文思泉湧	wsqy
 我是誰	wss
 無所適從	wsuc
+無損視頻	wsup
 無所事事	wsuu
 無所謂	wsw
 無所畏懼	wswj
@@ -64182,9 +64203,11 @@ WiFi	wifi
 無色無臭	wswx
 無私有弊	wsyb
 五四運動	wsyd
+無損音頻	wsyp
 萬死一生	wsyu
 爲所欲爲	wsyw
 無所用心	wsyx
+無損音樂	wsyy
 我所欲也	wsyy
 無所作爲	wszw
 問題	wt
@@ -66836,7 +66859,7 @@ WiFi	wifi
 線材	xmcl
 現存	xmcp
 蘚	xmcx
-洗	xmd
+冼	xmd
 賢達	xmda
 掀掉	xmdc
 顯得	xmde
@@ -66856,6 +66879,7 @@ WiFi	wifi
 掀動	xmds
 限度	xmdu
 廈門大學	xmdx
+洗	xmdx
 冼	xmdx
 澖	xmdx
 限定	xmdy
@@ -67066,6 +67090,7 @@ WiFi	wifi
 獻身	xmuf
 先生	xmug
 硍	xmug
+線上	xmuh
 獻上	xmuh
 顯示	xmui
 現實	xmui
@@ -67120,6 +67145,7 @@ WiFi	wifi
 纖秀	xmxq
 鮮血	xmxt
 閒暇	xmxw
+線下	xmxw
 險些	xmxx
 憪	xmxx
 線性	xmxy
@@ -67135,6 +67161,7 @@ WiFi	wifi
 性命攸關	xmyg
 咸陽	xmyh
 嫌疑	xmyi
+現役	xmyi
 鮮豔	xmyj
 蓄謀已久	xmyj
 信馬由繮	xmyj
@@ -67547,12 +67574,13 @@ WiFi	wifi
 詢	xpyx
 鱘	xpyx
 醺	xpyx
-迅	xpz
+遜	xpz
 訓責	xpze
 殉葬	xpzh
 巡	xpzi
-遜	xpzs
 尋蹤	xpzs
+遜	xpzs
+迅	xpzu
 尋租	xpzu
 迿	xpzx
 修	xq
@@ -71150,6 +71178,7 @@ WiFi	wifi
 遺傳	yiir
 益蟲	yiis
 溢出	yiiu
+移除	yiiu
 蟻	yiiy
 蜴	yiiy
 蛜	yiiy
@@ -71418,7 +71447,6 @@ WiFi	wifi
 議政	yivg
 一張	yivh
 依仗	yivh
-一直	yivi
 一致	yivi
 意志	yivi
 驛站	yivj
@@ -71437,6 +71465,7 @@ WiFi	wifi
 隿	yivy
 亦	yiw
 疑問	yiwf
+譯文	yiwf
 腰纏萬貫	yiwg
 以往	yiwh
 遺忘	yiwh
@@ -71447,6 +71476,7 @@ WiFi	wifi
 一窩	yiwo
 瓵	yiwt
 義務	yiwu
+衣物	yiwu
 毉	yiwu
 遺傳物質	yiwv
 運籌帷幄之中	yiwv
@@ -73367,6 +73397,7 @@ WiFi	wifi
 引人矚目	yrvm
 圓桌	yrvo
 圓轉	yrvr
+原著	yrvu
 援助	yrvu
 躍然紙上	yrvu
 圓錐	yrvv
@@ -73434,6 +73465,7 @@ WiFi	wifi
 原作	yrzo
 庸人自擾	yrzr
 遠足	yrzu
+原罪	yrzv
 庸人自擾之	yrzv
 用	ys
 癰	ysb
@@ -75204,7 +75236,8 @@ WiFi	wifi
 迂尊降貴	yzjg
 移樽就教	yzjj
 睚眥俱裂	yzjl
-園子裏	yzl
+又咋了	yzl
+又咋了	yzle
 一走了之	yzlv
 影子內閣	yzng
 意在沛公	yzpg
