@@ -143,7 +143,7 @@ def main(args):
     with open('../opencc/moran_chaifen.txt', 'r') as f:
         for l in f:
             [zi, chai] = l.strip().split('\t')
-            table.add(zi, '拆分：' + chai)
+            table.add(zi, '拆分：' + chai.replace('.', ''))
 
     table.print_c2w(sys.stdout)
 
