@@ -8,7 +8,7 @@ import sys
 
 
 class FakeOpenCC:
-    def convert(text):
+    def convert(self, text):
         return text
 
 
