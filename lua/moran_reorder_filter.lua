@@ -150,7 +150,7 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
          table.remove(fixed_list, 1)
       elseif Top.CandidateMatch(scand, fcand) then
          if fcand.comment == "`F" then
-            scand.comment = env.quick_code_indicator
+            scand.comment = env.quick_code_indicator .. scand.comment
          elseif fcand.type == "pinned" then
             scand.comment = env.pin_indicator
          end
