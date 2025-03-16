@@ -312,6 +312,7 @@ key_binder:
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_keypad
+      - moran:/key_bindings/moran_toggle_inflexible
       # 大寫字母追加輔助碼到上一音節
       # 該功能可使用 Shift-tab 替代
       # - moran:/key_bindings/moran_capital_for_last_syllable
