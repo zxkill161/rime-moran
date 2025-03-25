@@ -21,12 +21,12 @@ algebra:
   user_sentence_top:
     __append:
       __patch:
-        - moran_defs:/fly/qx_qo  # ZRM-SPECIFIC
-        - moran_defs:/fly/xq_xo  # ZRM-SPECIFIC
+        #- moran_defs:/fly/qx_qo  # ZRM-SPECIFIC
+        #- moran_defs:/fly/xq_xo  # ZRM-SPECIFIC
         # 模糊音設置
-        # - moran_defs:/bufen/z_zh
-        # - moran_defs:/bufen/c_ch
-        # - moran_defs:/bufen/s_sh
+        - moran_defs:/bufen/n_l
+        - moran_defs:/bufen/in_ing
+        #- moran_defs:/bufen/s_sh
         # - moran_defs:/bufen/en_eng
   user_sentence_bottom:
 
